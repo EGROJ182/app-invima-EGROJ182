@@ -7,7 +7,6 @@ bases <strong>Soql</strong> en <strong>SOCRATA</strong>.
 **Objetivo:**
 
 <div align="justify">
-      
       - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada                         <strong>medicamento</strong>.
 </div>
 
