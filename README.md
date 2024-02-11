@@ -52,7 +52,9 @@ Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</stro
 
 2.**De click en la nube ☁** (Automáticamente se descargara la base seleccionada)
 
-![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4bfdabc2-f9e5-4f33-aa55-89ee08faf85f)
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4e32378f-7a5b-4bfc-be9e-1b82ada768c6)
+
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/eb7da6f0-ea56-41c1-91b1-f68d6b50579a)
 
 # Descarga de más bases por medio de link
 Descargar mediante link bases de la API Datos Abiertos.
