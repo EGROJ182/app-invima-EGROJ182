@@ -54,17 +54,19 @@ Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</stro
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4e32378f-7a5b-4bfc-be9e-1b82ada768c6)
 
-2.**El archivo quedará en la carpeta 🗂 de descarga que tenga por efecto en su navegador** (Verá el archivo en la parte superior derecha y el mensaje de **Descarga Finalizada**)
+3.El **archivo** quedará en la **carpeta 🗂** de descarga que tenga por efecto en su **navegador** (Verá el archivo en la parte superior derecha y el mensaje de **Descarga Finalizada**)
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/7fb95ab7-2191-444b-a214-874c22ea3560)
 
 # Descarga de más bases por medio de link
-Descargar mediante link bases de la API Datos Abiertos.
+Descargar mediante **link** bases de la **API Datos Abiertos**.
 
-1.Selecciona **+Bases** de la lista desplegable y da **click** en la nube ☁
+1.Selecciona **+Bases** de la lista desplegable y da **click** en la **nube ☁**
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/12a027f7-d1cb-428f-95ec-b7ca05485bab)
 
-2.**Escriba** o pegué el **link** de la base en el **input**(Campo habilitado)
+2.**Escriba** o pegué el **link** de la base en el **input**(Campo habilitado), luego de **click en Aceptar**
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/2dd87614-74bd-428a-b0f6-49edf182cac8)
+
+3.Automáticamente empezará el proceso de descarga de la base (Si existe el **link** y **no tiene extensión al finalizar la cadena de texto** EJEMPLO: **".json"**)
