@@ -71,10 +71,31 @@ Descargar mediante **link** bases de la **API Datos Abiertos**.
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4e2393ed-e0b5-4bd0-b424-877959ff3adb)
 
-# Consulta de la App
+# Consultas de la App
 
 <div align="justify">
 Para realizar las <b>consultas</b> desde la pagina se dejaron varias formas de obtener la <b>información</b>. <b>Consulta por Expediente</b>, <b>consulta por expediente + consecutivo</b> y <b>consulta de forma personalizada</b> (<b>Nombre del medicamento</b>, <b>laboratorio</b>, <b>registro sanitario</b>, <b>estado de registro</b>, <b>descripcion comercial</b>, <b>concentración</b>, <b>ATC</b>, <b>forma farmacéutica</b>, <b>principio activo</b>, <b>vía de administración</b>).
 </div>
 
+# Consulta por Expediente y Consecutivo
+Ingrese el **expediente** del **medicamento** con un **consecutivo** y de **click** en **Consultar**.
 
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/b79e5113-d87f-44a1-a2de-08e5447854da)
+
+Automáticamente se realizara la consulta en las bases de medicamentos del Invima
+
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/f86e0f5f-fe99-4489-949e-2e53dadac175)
+
+<div align="justify">
+En el <b>contenedor inferior izquierdo</b> se creará otra <b>busqueda</b>; en este caso por solo el <b>expediente</b> con el fin de al dar <b>click</b>, se obtengan todas las <b>presentaciones comerciales por consecutivo</b>; si así lo desea el <b>usuario</b>.
+</div>
+
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/81fe88f3-4093-4c7c-934e-912e597e3cf0)
+
+<div align="justify">
+Observamos en el <b>contenedor derecho del resultado de la consulta</b> todas las <b>presentaciones comerciales por consecutivo</b>; de igual manera en el <b>contenedor inferior izquierdo</b> se crearán por cada <b>consecutivo</b> un contenedor por si desea realizar consulta el <b>usuario</b> por un <b>consecutivo</b> en específico.
+</div>
+
+Si el **usuario** da **click** en un contenedor inferior izquierdo se realizara la **consulta** de ese contenedor (**Sea por expediente y consecutivo o solo expediente**).
+
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/9735e191-b793-4b9f-9e3c-092ea2895858)
