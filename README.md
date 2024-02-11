@@ -9,6 +9,7 @@ Esta aplicación la cree con el fin de conectar con la <strong>API de Datos Abie
       - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada                         <strong>medicamento</strong>.
 </div>
 
+
 **Función principal**
 
       - Permite traer toda la información necesaria para realizar la validación de cada medicamento en tiempo real para conocer su estado, vigencia, fecha de vencimiento etc...
@@ -34,6 +35,7 @@ Dando **click**👆 en la nube podrá descargar las bases.
       Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</strong> las cuales se dividen en estados; de igual manera encontrara la base de <strong>PRECIOS MAXIMOS 
       DE VENTA MEDICAMENTOS</strong> por expediente y su consecutivo correspondiente.
 </div>
+
 
 **Bases por Defecto**
       
