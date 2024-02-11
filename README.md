@@ -8,13 +8,13 @@
 <h3 align="left">
       Objetivo:
 </h3>
-<div align="justify" left="10%">
+<div left="10%">
       - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada 
       <strong>medicamento</strong>.
 </div>
-
-**Función principal**
-
+<h3 align="center">
+      Función principal
+</h3>
       - Permite traer toda la información necesaria para realizar la validación de cada medicamento en tiempo real para conocer su estado, vigencia, fecha de vencimiento etc...
 
 <div style="text-align: right;">
