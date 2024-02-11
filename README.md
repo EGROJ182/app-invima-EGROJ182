@@ -43,7 +43,7 @@ Dando **click**👆 en la nube podrá descargar las bases.
 
 # **Bases por Defecto**
 
-<div align="center" width="400px" height="230px">
+<div align="center">
       <img align='center' src="https://lh3.googleusercontent.com/pw/ABLVV85MwmccWRIACPhRGIMYhkTtKvAunJGzvG7Hy3cps4KydngiHNXynzl3gjXFgTCKniu-7zjwFMAKg-
       GF2zMqUoPJJLAyPUgEO7K8AlC0qC28Ryr48dwNSCgGEhmEnE5PNN9gKiTvaUvKHn9UGV98HNmhMA=w412-h232-s-no-gm?authuser=1" width="100%" height="100%">
 </div>
