@@ -43,14 +43,11 @@ Dando **click**👆 en la nube podrá descargar las bases.
 
 # **Bases por Defecto**
 
-
+<img align='center' src="https://photos.google.com/u/1/share/AF1QipNdSWLhzuw7SSvw2aB7SuJrI_q7EjYgGFb_JHsKZu6fFB3FtJS_hXa8X_aVXyKrpg/photo/AF1QipO588STYSFH4PAmOR5t_YpBlsPb32pxv_sZQvBu?key=TzRqVURJTGd6NlkwZUFaakhYRF85d0Fpem0tNThB" width="230">
 
 1.**Seleccione la base que se desea obtener**
 
-<div align="center">
-      ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/779f0442-1ccc-47e7-93dd-a4efdb6195cf)
-</div>
-
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/779f0442-1ccc-47e7-93dd-a4efdb6195cf)
 
 2.**De click en la nube ☁** (Automáticamente se descargara la base seleccionada)
 
