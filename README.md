@@ -45,7 +45,7 @@ Dando **click**👆 en la nube podrá descargar las bases.
 
 <div align="center">
       <img align='center' src="https://lh3.googleusercontent.com/pw/ABLVV85MwmccWRIACPhRGIMYhkTtKvAunJGzvG7Hy3cps4KydngiHNXynzl3gjXFgTCKniu-7zjwFMAKg-
-      GF2zMqUoPJJLAyPUgEO7K8AlC0qC28Ryr48dwNSCgGEhmEnE5PNN9gKiTvaUvKHn9UGV98HNmhMA=w412-h232-s-no-gm?authuser=1" width="230px">
+      GF2zMqUoPJJLAyPUgEO7K8AlC0qC28Ryr48dwNSCgGEhmEnE5PNN9gKiTvaUvKHn9UGV98HNmhMA=w412-h232-s-no-gm?authuser=1" width="230px" height="400px">
 </div>
 
 1.**Seleccione la base que se desea obtener**
