@@ -44,31 +44,35 @@ Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</stro
 <img align='center' src="https://lh3.googleusercontent.com/pw/ABLVV85MwmccWRIACPhRGIMYhkTtKvAunJGzvG7Hy3cps4KydngiHNXynzl3gjXFgTCKniu-7zjwFMAKg-GF2zMqUoPJJLAyPUgEO7K8AlC0qC28Ryr48dwNSCgGEhmEnE5PNN9gKiTvaUvKHn9UGV98HNmhMA=w412-h232-s-no-gm?authuser=1" width="400">
 </div>
 
-<div align="left">
-1.**Seleccione la base que se desea obtener**
-</div>
+1. **Seleccione la base que se desea obtener**
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/779f0442-1ccc-47e7-93dd-a4efdb6195cf)
 
-2.**De click en la nube ☁** (Automáticamente empezará el proceso de descarga de la base seleccionada)
+2. **De click en la nube ☁** (Automáticamente empezará el proceso de descarga de la base seleccionada)
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4e32378f-7a5b-4bfc-be9e-1b82ada768c6)
 
-3.El **archivo** quedará en la **carpeta 🗂** de descarga que tenga por efecto en su **navegador** (Verá el archivo en la parte superior derecha y el mensaje de **Descarga Finalizada**)
+3. El **archivo** quedará en la **carpeta 🗂** de descarga que tenga por efecto en su **navegador** (Verá el archivo en la parte superior derecha y el mensaje de **Descarga Finalizada**)
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/7fb95ab7-2191-444b-a214-874c22ea3560)
 
 # Descarga de más bases por medio de link
 Descargar mediante **link** bases de la **API Datos Abiertos**.
 
-1.Selecciona **+Bases** de la lista desplegable y da **click** en la **nube ☁**
+1. Selecciona **+Bases** de la lista desplegable y da **click** en la **nube ☁**
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/12a027f7-d1cb-428f-95ec-b7ca05485bab)
 
-2.**Escriba** o pegué el **link** de la base en el **input**(Campo habilitado), luego de **click en Aceptar**
+2. **Escriba** o pegué el **link** de la base en el **input**(Campo habilitado), luego de **click en Aceptar**
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/54f766b6-de3d-4d60-a569-765c27744204)
 
-3.Automáticamente empezará el proceso de descarga de la base (Si existe el **link** y **no tiene extensión al finalizar la cadena de texto** EJEMPLO: **".json"**)
+3. Automáticamente empezará el proceso de descarga de la base (Si existe el **link** y **no tiene extensión al finalizar la cadena de texto** EJEMPLO: **".json"**)
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4e2393ed-e0b5-4bd0-b424-877959ff3adb)
+
+# Consulta de la App
+
+<div align="justify">
+Para realizar las <b>consultas</b> desde la pagina se dejaron varias formas de obtener la información. Consulta por Expediente, consulta por expediente + consecutivo y consulta de forma personalizada (Nombre del medicamento, laboratorio, registro sanitario, estado de registro, descripcion comercial, concentración, cantidad, ATC, forma farmacéutica, principio activo y vía de administración).
+</div>
