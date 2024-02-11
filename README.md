@@ -80,7 +80,7 @@ Para realizar las <b>consultas</b> desde la pagina se dejaron varias formas de o
 # Consulta por Expediente y Consecutivo
 Ingrese el **expediente** del **medicamento** con un **consecutivo** y de **click** en **Consultar**.
 
-![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/b79e5113-d87f-44a1-a2de-08e5447854da)
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/0704d338-d63f-4946-9c8c-728e3c3942a1)
 
 Automáticamente se realizara la consulta en las bases de medicamentos del Invima
 
