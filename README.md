@@ -9,7 +9,13 @@ Esta aplicación la cree con el fin de conectar con la **API de Datos Abiertos**
 
 Además permite descargar pegando el link cualquier base que se encuentra en datos abiertos haciendo una conversión de los datos ya que por medio de la pagina de datos abiertos los archivos no son compatibles con UFT8 por ende todos los caracteres especiales no son legibles; con esto podrán obtener las bases completas en extensión (csv).
 
+# Home
+Inicio de la pagina
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/eeaea35b-b40f-469b-81ba-bb18176f83da)
 
+# Descarga de bases
+Para descargar mediante link bases de la API Datos Abiertos
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/7fae180d-6057-4d28-8d39-b12481a884e1)
 
-
+**Selecciona la base que se desea**
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/85715b7b-25c0-4bf2-9e46-6596803a3d64)
