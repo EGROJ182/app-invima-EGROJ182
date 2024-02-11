@@ -12,15 +12,14 @@ Esta aplicación la cree con el fin de conectar con la <strong>API de Datos Abie
 
 
 <h1 align="center">
-      Función principal
+Función principal
 </h1>
 
       - Permite traer toda la información necesaria para realizar la validación de cada medicamento en tiempo real para conocer su estado, vigencia, fecha de vencimiento etc...
 
 
 <div align="justify">
-      Además permite descargar pegando el link cualquier base que se encuentra en datos abiertos haciendo una conversión de los datos ya que por medio de la pagina de datos abiertos los
-      archivos no son compatibles con UFT8 por ende todos los caracteres especiales no son legibles; con esto podrán obtener las bases completas en extensión <strong>(csv)</strong>.
+Además permite descargar pegando el link cualquier base que se encuentra en datos abiertos haciendo una conversión de los datos ya que por medio de la pagina de datos abiertos los archivos no son compatibles con UFT8 por ende todos los caracteres especiales no son legibles; con esto podrán obtener las bases completas en extensión <strong>(csv)</strong>.
 </div>
 
 # Home
@@ -36,8 +35,7 @@ Dando **click**👆 en la nube podrá descargar las bases.
 # Pasos para descarga de bases
 
 <div align="justify">
-      Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</strong> las cuales se dividen en estados; de igual manera encontrara la base de <strong>PRECIOS MAXIMOS 
-      DE VENTA MEDICAMENTOS</strong> por expediente y su consecutivo correspondiente.
+Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</strong> las cuales se dividen en estados; de igual manera encontrara la base de <strong>PRECIOS MAXIMOS DE VENTA MEDICAMENTOS</strong> por expediente y su consecutivo correspondiente.
 </div>
 
 # **Bases por Defecto**
@@ -46,8 +44,9 @@ Dando **click**👆 en la nube podrá descargar las bases.
 <img align='center' src="https://lh3.googleusercontent.com/pw/ABLVV85MwmccWRIACPhRGIMYhkTtKvAunJGzvG7Hy3cps4KydngiHNXynzl3gjXFgTCKniu-7zjwFMAKg-GF2zMqUoPJJLAyPUgEO7K8AlC0qC28Ryr48dwNSCgGEhmEnE5PNN9gKiTvaUvKHn9UGV98HNmhMA=w412-h232-s-no-gm?authuser=1" width="400">
 </div>
 
-
+<div align="left">
 1.**Seleccione la base que se desea obtener**
+</div>
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/779f0442-1ccc-47e7-93dd-a4efdb6195cf)
 
