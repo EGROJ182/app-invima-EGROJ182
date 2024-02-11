@@ -67,6 +67,8 @@ Descargar mediante **link** bases de la **API Datos Abiertos**.
 
 2.**Escriba** o pegué el **link** de la base en el **input**(Campo habilitado), luego de **click en Aceptar**
 
-![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/2dd87614-74bd-428a-b0f6-49edf182cac8)
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/54f766b6-de3d-4d60-a569-765c27744204)
 
 3.Automáticamente empezará el proceso de descarga de la base (Si existe el **link** y **no tiene extensión al finalizar la cadena de texto** EJEMPLO: **".json"**)
+
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4e2393ed-e0b5-4bd0-b424-877959ff3adb)
