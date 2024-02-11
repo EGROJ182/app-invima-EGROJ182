@@ -9,7 +9,7 @@
       Objetivo:
 </h3>
 
-      - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada       <strong>medicamento</strong>.
+      - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada medicamento.
 
 
 <h2 align="center">
