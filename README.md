@@ -12,9 +12,9 @@
       - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada medicamento.
 
 
-<h2 align="center">
+<h3 align="center">
       Función principal
-</h2>
+</h3>
 
 
       - Permite traer toda la información necesaria para realizar la validación de cada medicamento en tiempo real para conocer su estado, vigencia, fecha de vencimiento etc...
