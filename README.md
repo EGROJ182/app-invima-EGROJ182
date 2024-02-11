@@ -1,6 +1,3 @@
-<div style="text-align: justify;">
-      Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estanHola como estan Hola como estan Hola como estan Hola como estan Hola como estanHola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan Hola como estan
-</div>
 # app-invima-EGROJ182
 <div style="text-align: justify;">
 Esta aplicación la cree con el fin de conectar con la **API de Datos Abiertos** que aloja la información del **INVIMA** y otras entidades públicas en bases **Soql** en **SOCRATA**.
@@ -9,7 +6,7 @@ Esta aplicación la cree con el fin de conectar con la **API de Datos Abiertos**
 **Objetivo:**
 
 <div style="text-align: justify;">
-- Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada medicamento.
+      - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada medicamento.
 </div>
 
 **Función principal**
@@ -32,7 +29,10 @@ Dando click en la nube podrá descargar las bases.
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/7fae180d-6057-4d28-8d39-b12481a884e1)
 
 # Pasos para descarga de bases
-Por defecto se encuentran las bases de medicamentos del **INVIMA** las cuales se dividen en estados; de igual manera encontrara la base de **PRECIOS MAXIMOS DE VENTA MEDICAMENTOS** por expediente y su consecutivo correspondiente.
+
+<div style="text-align: justify;">
+      Por defecto se encuentran las bases de medicamentos del **INVIMA** las cuales se dividen en estados; de igual manera encontrara la base de **PRECIOS MAXIMOS DE VENTA MEDICAMENTOS** por expediente y su consecutivo correspondiente.
+</div>
 
 **Bases por Defecto**
       
