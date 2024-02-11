@@ -90,14 +90,18 @@ Automáticamente se realizara la consulta en las bases de medicamentos del Invim
 En el <b>contenedor inferior izquierdo</b> se creará otra <b>busqueda</b>; en este caso por solo el <b>expediente</b> con el fin de al dar <b>click</b>, se obtengan todas las <b>presentaciones comerciales por consecutivo</b>; si así lo desea el <b>usuario</b>.
 </div>
 
+<br>
+
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/81fe88f3-4093-4c7c-934e-912e597e3cf0)
 
 <div align="justify">
 Observamos en el <b>contenedor derecho del resultado de la consulta</b> todas las <b>presentaciones comerciales por consecutivo</b>; de igual manera en el <b>contenedor inferior izquierdo</b> se crearán por cada <b>consecutivo</b> un contenedor por si desea realizar consulta el <b>usuario</b> por un <b>consecutivo</b> en específico.
 </div>
 
+<br>
+
 <div align="justify">
-Si el <b>usuario</b> da <b>click</b> en un contenedor inferior izquierdo se realizara la <b>consulta</b> de ese contenedor (<b>Sea por expediente</b> o <b>expediente y consecutivo</b>, según sea el casó que <b>apliqué</b>).
+Si el <b>usuario</b> da <b>click</b> en un contenedor inferior izquierdo se realizara la <b>consulta</b> de ese contenedor (<b>Sea por expediente</b> o <b>expediente y consecutivo</b>, según sea el casó que <b>apliqué</b>).<br>
 </div>
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/9735e191-b793-4b9f-9e3c-092ea2895858)
