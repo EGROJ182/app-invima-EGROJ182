@@ -15,7 +15,10 @@
 <h2 align="center">
       Función principal
 </h2>
+
+
       - Permite traer toda la información necesaria para realizar la validación de cada medicamento en tiempo real para conocer su estado, vigencia, fecha de vencimiento etc...
+
 
 <div style="text-align: right;">
       Además permite descargar pegando el link cualquier base que se encuentra en datos abiertos haciendo una conversión de los datos ya que por medio de la pagina de datos abiertos los
