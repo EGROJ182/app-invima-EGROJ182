@@ -50,9 +50,11 @@ Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</stro
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/779f0442-1ccc-47e7-93dd-a4efdb6195cf)
 
-2.**De click en la nube ☁** (Automáticamente se descargara la base seleccionada)
+2.**De click en la nube ☁** (Automáticamente empezará el proceso de descarga de la base seleccionada)
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/4e32378f-7a5b-4bfc-be9e-1b82ada768c6)
+
+2.**El archivo quedará en la carpeta 🗂 de descarga que tenga por efecto en su navegador** (Verá el archivo en la parte superior derecha y el mensaje de **Descarga Finalizada**)
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/eb7da6f0-ea56-41c1-91b1-f68d6b50579a)
 
