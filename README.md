@@ -8,7 +8,7 @@
 <h3 align="left">
       Objetivo:
 </h3>
-<div align="justify" left="100px">
+<div align="justify" left="10%">
       - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada 
       <strong>medicamento</strong>.
 </div>
