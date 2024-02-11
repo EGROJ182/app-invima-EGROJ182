@@ -13,8 +13,9 @@ Esta aplicación la cree con el fin de conectar con la **API de Datos Abiertos**
 
       - Permite traer toda la información necesaria para realizar la validación de cada medicamento en tiempo real para conocer su estado, vigencia, fecha de vencimiento etc...
 
-<div style="text-align: justify;">
-Además permite descargar pegando el link cualquier base que se encuentra en datos abiertos haciendo una conversión de los datos ya que por medio de la pagina de datos abiertos los archivos no son compatibles con UFT8 por ende todos los caracteres especiales no son legibles; con esto podrán obtener las bases completas en extensión (csv).
+<div style="text-align: right;">
+      Además permite descargar pegando el link cualquier base que se encuentra en datos abiertos haciendo una conversión de los datos ya que por medio de la pagina de datos abiertos los
+      archivos no son compatibles con UFT8 por ende todos los caracteres especiales no son legibles; con esto podrán obtener las bases completas en extensión (csv).
 </div>
 
 # Home
