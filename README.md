@@ -101,7 +101,9 @@ Observamos en el <b>contenedor derecho del resultado de la consulta</b> todas la
 <br>
 
 <div align="justify">
-Si el <b>usuario</b> da <b>click</b> en un contenedor inferior izquierdo se realizara la <b>consulta</b> de ese contenedor (<b>Sea por expediente</b> o <b>expediente y consecutivo</b>, según sea el casó que <b>apliqué</b>).<br>
+Si el <b>usuario</b> da <b>click</b> en un contenedor inferior izquierdo se realizara la <b>consulta</b> de ese contenedor (<b>Sea por expediente</b> o <b>expediente y consecutivo</b>, según sea el casó que <b>apliqué</b>).
 </div>
+
+<br>
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/9735e191-b793-4b9f-9e3c-092ea2895858)
