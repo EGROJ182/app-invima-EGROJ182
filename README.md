@@ -47,6 +47,7 @@ Dando **click**👆 en la nube podrá descargar las bases.
 <img align='center' src="https://lh3.googleusercontent.com/pw/ABLVV85MwmccWRIACPhRGIMYhkTtKvAunJGzvG7Hy3cps4KydngiHNXynzl3gjXFgTCKniu-7zjwFMAKg-GF2zMqUoPJJLAyPUgEO7K8AlC0qC28Ryr48dwNSCgGEhmEnE5PNN9gKiTvaUvKHn9UGV98HNmhMA=w412-h232-s-no-gm?authuser=1" width="400">
 </div>
 
+
 1.**Seleccione la base que se desea obtener**
 
 ![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/779f0442-1ccc-47e7-93dd-a4efdb6195cf)
