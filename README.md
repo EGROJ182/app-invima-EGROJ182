@@ -56,7 +56,7 @@ Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</stro
 
 2.**El archivo quedará en la carpeta 🗂 de descarga que tenga por efecto en su navegador** (Verá el archivo en la parte superior derecha y el mensaje de **Descarga Finalizada**)
 
-![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/eb7da6f0-ea56-41c1-91b1-f68d6b50579a)
+![image](https://github.com/EGROJ182/app-invima-EGROJ182/assets/109677233/7fb95ab7-2191-444b-a214-874c22ea3560)
 
 # Descarga de más bases por medio de link
 Descargar mediante link bases de la API Datos Abiertos.
