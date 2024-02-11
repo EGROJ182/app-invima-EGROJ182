@@ -5,7 +5,8 @@ body {
     background-image: url("../Resources/Images/fondo2.jpg");
     background-position: center;
     background-size: cover;
-    /* max-height: 768px; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 header {
