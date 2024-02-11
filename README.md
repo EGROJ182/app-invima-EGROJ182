@@ -36,12 +36,10 @@ Dando **click**👆 en la nube podrá descargar las bases.
 
 # Pasos para descarga de bases
 
-<div style="text-align: justify;">
+<div align="justify">
       Por defecto se encuentran las bases de medicamentos del <strong>**INVIMA**</strong> las cuales se dividen en estados; de igual manera encontrara la base de <strong>PRECIOS MAXIMOS 
       DE VENTA MEDICAMENTOS</strong> por expediente y su consecutivo correspondiente.
 </div>
-
-
 
 **Bases por Defecto**
 
