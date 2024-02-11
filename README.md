@@ -43,7 +43,7 @@ Dando **click**👆 en la nube podrá descargar las bases.
 
 # **Bases por Defecto**
 
-<img align='center' src="https://photos.google.com/u/1/share/AF1QipNdSWLhzuw7SSvw2aB7SuJrI_q7EjYgGFb_JHsKZu6fFB3FtJS_hXa8X_aVXyKrpg/photo/AF1QipO588STYSFH4PAmOR5t_YpBlsPb32pxv_sZQvBu?key=TzRqVURJTGd6NlkwZUFaakhYRF85d0Fpem0tNThB" width="230">
+<img align='center' src="[https://photos.google.com/u/1/share/AF1QipNdSWLhzuw7SSvw2aB7SuJrI_q7EjYgGFb_JHsKZu6fFB3FtJS_hXa8X_aVXyKrpg/photo/AF1QipO588STYSFH4PAmOR5t_YpBlsPb32pxv_sZQvBu?key=TzRqVURJTGd6NlkwZUFaakhYRF85d0Fpem0tNThB] (https://photos.app.goo.gl/SvQp2eCm7JiuJomX6)" width="230">
 
 1.**Seleccione la base que se desea obtener**
 
