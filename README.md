@@ -1,12 +1,12 @@
 # app-invima-EGROJ182
 <div style="text-align: justify;">
-      Esta aplicación la cree con el fin de conectar con la **API de Datos Abiertos** que aloja la información del **INVIMA** y otras entidades públicas en bases **Soql** en **SOCRATA**.
+Esta aplicación la cree con el fin de conectar con la **API de Datos Abiertos** que aloja la información del **INVIMA** y otras entidades públicas en bases **Soql** en **SOCRATA**.
 </div>
 
 **Objetivo:**
 
 <div style="text-align: justify;">
-      - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada medicamento.
+- Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada medicamento.
 </div>
 
 **Función principal**
