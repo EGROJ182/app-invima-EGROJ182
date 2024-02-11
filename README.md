@@ -74,5 +74,7 @@ Descargar mediante **link** bases de la **API Datos Abiertos**.
 # Consulta de la App
 
 <div align="justify">
-Para realizar las <b>consultas</b> desde la pagina se dejaron varias formas de obtener la información. Consulta por Expediente, consulta por expediente + consecutivo y consulta de forma personalizada (Nombre del medicamento, laboratorio, registro sanitario, estado de registro, descripcion comercial, concentración, cantidad, ATC, forma farmacéutica, principio activo y vía de administración).
+Para realizar las <b>consultas</b> desde la pagina se dejaron varias formas de obtener la <b>información</b>. <b>Consulta por Expediente</b>, <b>consulta por expediente + consecutivo</b> y <b>consulta de forma personalizada</b> (<b>Nombre del medicamento</b>, <b>laboratorio</b>, <b>registro sanitario</b>, <b>estado de registro</b>, <b>descripcion comercial</b>, <b>concentración</b>, <b>ATC</b>, <b>forma farmacéutica</b>, <b>principio activo</b>, <b>vía de administración</b>).
 </div>
+
+
