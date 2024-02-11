@@ -5,9 +5,9 @@
       Esta aplicación la cree con el fin de conectar con la <strong>API de Datos Abiertos</strong> que aloja la información del <strong>INVIMA</strong> y otras entidades públicas en 
       bases <strong>Soql</strong> en <strong>SOCRATA</strong>.
 </div>
-<h2 align="left">
+<h3 align="left">
 **Objetivo:**
-</h2>
+</h3>
 <div align="justify">
       - Consultar el estado completo e información de los medicamentos registrados en el invima por expediente y consecutivo asignado por presentación comercial de cada                         <strong>medicamento</strong>.
 </div>
