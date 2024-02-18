@@ -120,7 +120,7 @@ function downloadReportInvima() {
               autocapitalize: "off"
             },
             showCancelButton: true,
-            confirmButtonText: "Aceptar",
+            confirmButtonText: "Descargar",
             cancelButtonText: "Cancelar",
             showLoaderOnConfirm: true,
             preConfirm: (value) => {
